@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "fastify-plugin": "^4.0.0",
-    "ioredis": "^4.27.9"
+    "ioredis": "^5.2.2"
   },
   "tsd": {
     "directory": "test/types"
