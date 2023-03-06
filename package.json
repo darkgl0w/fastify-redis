@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/fastify/fastify-redis#readme",
   "devDependencies": {
-    "@types/ioredis": "^4.27.4",
+    "@types/ioredis": "^5.0.0",
     "@types/node": "^18.0.0",
     "fastify": "^3.21.6",
     "proxyquire": "^2.1.3",
